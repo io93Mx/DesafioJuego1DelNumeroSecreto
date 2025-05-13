@@ -4,7 +4,7 @@
 
 <h1 align='center'> Juego 1 del numero secreto de alura en alertas de HTML </h1>
 
-<h3>Este es el juego: El numero secreto, del curso de alura</h3> <a href="https://io93mx.github.io/Juego-del-numero-secreto-1-alura/">Jugar</a><br><br>
+<h3>Este es el juego: El numero secreto, del curso de alura</h3> <a href="https://io93mx.github.io/DesafioJuego1DelNumeroSecreto/">Jugar</a><br><br>
 <em>De que trata:<em><br><br>El juego trata de que adivines un numero que es secreto. Primero tienes que escoger un rango de numeros, siempre sera desde el 1 y tu decides el otro numero, por ejemplo: Un rango del 1 al 10.<br><br>Despues debes elegir el numero de intentos que tendras para adivinar un numero secreto que esta en el rango escogido, por ejemplo: 3 intentos.<br><br>Y listo, el juego comienza, debes de empezar a adivinar el numero secreto. 
 
 <h3> Insignias </h3>
